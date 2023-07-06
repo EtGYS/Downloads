@@ -3,12 +3,11 @@
 [Home](https://etntl.top) | [Downloads -Eternalglory](https://EtNtL.TOP/Downloads)<br>
 
 ### 下载客户端
-目前,我们有以下下载方式:<br>
+目前,我们的下载源如下:<br>
 - [X] ``drive``<br>
 - [X] ``GitHub``<br>
 - [ ] ``189``<br>
 - [ ] ``123Pan``<br>
-*切记!不要使用你的VPN等翻墙软件,因为这样你会被人机验证阻止*<br>
 
 ### LICENSE
 我们使用麻省理工学院的``MIT``许可证,您应该在许可证上进行转载或使用
